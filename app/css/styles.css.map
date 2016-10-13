@@ -1,0 +1,1 @@
+{"version":3,"file":"styles.css","sources":["styles.scss","imports/_variables.scss","imports/_basics.scss"],"sourcesContent":["@import \"imports/variables\";\n@import \"imports/basics\";","",""],"mappings":"","names":[]}
